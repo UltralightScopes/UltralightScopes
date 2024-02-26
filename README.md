@@ -21,10 +21,10 @@ The PDF document *PushTo - Using Gravity to Find Stars* provides an overview, op
 - PushTo_v1.aia.
 
   *Code for compilation using MIT AppInventor, for installation as an APK file on an Android phone.*
-- CalTemplate.txt
+- CalibrationTemplate.txt
 
   *An empty text file to hold the calibration values*
-- CalTemplate.csv
+- DatabaseTemplate.csv
 
   *An empty CSV file to hold the star database*
 
