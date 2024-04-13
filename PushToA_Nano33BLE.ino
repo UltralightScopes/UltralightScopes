@@ -175,7 +175,7 @@ String Sign(int val){
 // for Astronomy and Earth Sciences, see also reference and diagram in notes
 void reOrient(int xyz[]){
   int x=xyz[0], y=xyz[1], z=xyz[2];
-  xyz[0]=x; // reoriented X = x'
-  xyz[1]=y;  // reoriented Y = y'
-  xyz[2]=z;  // reoriented Z = z'
+  xyz[0]=x; // reoriented x = x'
+  xyz[1]=y;  // reoriented y = y'
+  xyz[2]=z;  // reoriented z = z'
 } 
