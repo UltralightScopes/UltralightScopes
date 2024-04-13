@@ -170,7 +170,7 @@ String Sign(int val){
   return valSign;
 }
 
-// Adjusts XYZ vector for IMU sensor orientation on telescope
+// Adjusts xyz vector for IMU sensor orientation on telescope
 // The reference xyz axes are as defined by the Hungarian Research Centre 
 // for Astronomy and Earth Sciences, see also reference and diagram in notes
 void reOrient(int xyz[]){
