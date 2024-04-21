@@ -8,7 +8,7 @@ Parts required include the two Arduino Nano 33 BLE boards, two small enclosures 
 
 Tools required include strong scissors, a Phillips head screwdriver, and ideally some knowledge of basic astronomy, high school geometry, and trigonometry.
 
-The PDF document *PushTo - Using Gravity to Find Stars* provides an overview, operating manual, calibration manual, and maths background. See also the video [PushTo](https://youtu.be/7g5M-8utyEE).
+The PDF document *PushTo - Using Gravity to Find Stars* provides an overview, operating manual, calibration manual, and maths background. See also the video [PushTo](https://youtu.be/jDFmWMqel0E).
 
 **The source code and files include:**
 
