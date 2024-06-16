@@ -1,4 +1,7 @@
-# Using_Gravity_to_Find_Stars
+# Using_Gravity_to_Find_Stars 
+
+THE CODE AND OPERATING MANUAL FOR THIS REPOSITORY WILL BE UPDATED IN JULY 2024. IT WILL HAVE SIMPLIFIED CALIBRATION AND MORE GENERAL STAR FINDER ALGORITHMS 
+THE CURRENT CODE AND MANUAL HAS BEEN REMOVED BUT CAN BE SUPPLIED ON REQUEST
 
 This App uses the Earth’s gravity vector to point telescopes on equatorial mounts at stars.
 
